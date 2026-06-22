@@ -1,0 +1,1 @@
+Engineered C++17 module to consume ML model outputs (file-based and local inference) and translate predictions into deterministic BIM geometry modifications — integrated model versioning, output validation, and fallback logic to ensure reliability when input or inference fails (C++17, file I/O, error handling).
